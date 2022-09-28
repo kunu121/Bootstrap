@@ -4645,7 +4645,7 @@ textarea.form-control-lg {
     flex-direction: column;
     min-width: 0;
     word-wrap: break-word;
-    background-color: #303030;
+    background-color: #303030b5;
     background-clip: border-box;
     border: 1px solid rgba(0,0,0,.125);
     border-radius: .25rem
@@ -11829,7 +11829,7 @@ textarea.form-control-lg {
 }
 
 .alert-secondary {
-    background-color: #444
+    background-color: #30303008;
 }
 
 .alert-success {
