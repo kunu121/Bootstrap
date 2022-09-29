@@ -5843,7 +5843,7 @@ textarea.form-control-lg {
     flex-direction: column;
     width: 100%;
     pointer-events: auto;
-    background-color: #3030308f;
+    background-color: #303030b5;
     background-clip: padding-box;
     border: 1px solid #444;
     border-radius: .3rem;
@@ -5878,6 +5878,7 @@ textarea.form-control-lg {
     -ms-flex-pack: justify;
     justify-content: space-between;
     padding: 1rem 1rem;
+	background: #0a0a0a00;
     border-bottom: 1px solid #444;
     border-top-left-radius: calc(.3rem - 1px);
     border-top-right-radius: calc(.3rem - 1px)
@@ -5912,7 +5913,7 @@ textarea.form-control-lg {
     -ms-flex-pack: end;
     justify-content: flex-end;
     padding: .75rem;
-    border-top: 1px solid #444;
+    border-top: 1px solid #4440;
     border-bottom-right-radius: calc(.3rem - 1px);
     border-bottom-left-radius: calc(.3rem - 1px)
 }
