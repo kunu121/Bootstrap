@@ -4644,7 +4644,7 @@ textarea.form-control-lg {
     flex-direction: column;
     min-width: 0;
     word-wrap: break-word;
-    background-color: #303030b5;
+    background-color: #0000008c;
     background-clip: border-box;
     border: 1px solid rgba(0,0,0,.125);
     border-radius: .25rem
@@ -5271,7 +5271,7 @@ textarea.form-control-lg {
     flex-direction: column;
     padding-left: 0;
     margin-bottom: 0;
-    border-radius: .25rem
+    border-radius: 1.5rem
 }
 
 .list-group-numbered {
@@ -5308,7 +5308,7 @@ textarea.form-control-lg {
     padding: .5rem 1rem;
     color: #fff;
     text-decoration: none;
-    background-color: #303030b5
+    background-color: #0000008c
 }
 
 .list-group-item:first-child {
@@ -5324,7 +5324,7 @@ textarea.form-control-lg {
 .list-group-item.disabled,.list-group-item:disabled {
     color: #888;
     pointer-events: none;
-    background-color: #303030b5;
+    background-color: #0000008c;
 }
 
 .list-group-item.active {
@@ -5842,10 +5842,10 @@ textarea.form-control-lg {
     flex-direction: column;
     width: 100%;
     pointer-events: auto;
-    background-color: #303030b5;
+    background-color: #000000ab;
     background-clip: padding-box;
     border: 1px solid #444;
-    border-radius: .3rem;
+    border-radius: 1.9rem;
     outline: 0
 }
 
@@ -5877,10 +5877,10 @@ textarea.form-control-lg {
     -ms-flex-pack: justify;
     justify-content: space-between;
     padding: 1rem 1rem;
-	background: #0a0a0a00;
-    border-bottom: 1px solid #444;
-    border-top-left-radius: calc(.3rem - 1px);
-    border-top-right-radius: calc(.3rem - 1px)
+	background: #0e0e0e8c;
+    border-bottom: 1px solid #000;
+    border-top-left-radius: calc(1.9rem - 1px);
+    border-top-right-radius: calc(1.9rem - 1px)
 }
 
 .modal-header .btn-close {
@@ -8140,7 +8140,7 @@ textarea.form-control-lg {
 }
 
 .bg-dark {
-    background-color: #303030b5!important;
+    background-color: #0000008c!important;
 }
 
 .bg-body {
